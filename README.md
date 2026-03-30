@@ -50,14 +50,14 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohaatta&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohaatta&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohaatta&show_icons=true&theme=dark&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohaatta&layout=compact&theme=dark&hide_border=true" />
+</p>
 ---
 
 ## 🤝 Let's Connect!
