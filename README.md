@@ -63,7 +63,7 @@
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on interesting projects or just having a great tech conversation.
-Feel free to reach out via [LinkedIn](YOUR_LINKEDIN_URL)!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roha-atta-8a05373bb/)!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohaatta&style=flat-square&color=blue" alt="Profile views" />
